@@ -1,0 +1,149 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Oct 03 15:55:57 IST 2017</td>
+</tr>
+<tr><td>Total time:</td><td>166 seconds (166212 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.loginpagesetmore.ValidationLoginPage.fbGoogleScenario()'><b>fbGoogleScenario</b><br>Test class: com.loginpagesetmore.ValidationLoginPage<br/>
+<a href="#Output-485094044" onClick='toggleBox("Output-485094044", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-485094044" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-485094044">
+Verified loginwith goole <br><br/>
+Verified gmail username <br><br/>
+verified next button  <br><br/>
+verified the gmail password <br><br/>
+Verified the login with facebook button <br><br/>
+Verified facebook email fiel <br><br/>
+Verified facebook password field <br><br/>
+successful login through fb <br><br/>
+</div>
+</td>
+<td></td>
+<td>60</td>
+<td>com.loginpagesetmore.ValidationLoginPage@22e2c121</td></tr>
+<tr>
+<td title='com.loginpagesetmore.ValidationLoginPage.verifyAndValidLoginPage()'><b>verifyAndValidLoginPage</b><br>Test class: com.loginpagesetmore.ValidationLoginPage<br/>
+<a href="#Output-1961628173" onClick='toggleBox("Output-1961628173", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1961628173" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1961628173">
+Verified username textbox <br><br/>
+Verified password textbox <br><br/>
+verified signup button  <br><br/>
+Passing the userName:<b></b><br><br/>
+Passing the userName:<b></b><br><br/>
+Passing the userName:<b>sangeetha. Gopal@a-cti. com</b><br><br/>
+Passing the userName:<b></b><br><br/>
+Passing the userName:<b>sangeetha.gopal@a-cti.com</b><br><br/>
+Passing the userName:<b>setmor</b><br><br/>
+Passing the userName:<b>sangeetha.gopal@a-cti</b><br><br/>
+Passing the userName:<b>setmore</b><br><br/>
+Passing the userName:<b>SANGEETHA.GOPAL@A-CTI.COM</b><br><br/>
+Passing the userName:<b>setmore</b><br><br/>
+successfull logout <br><br/>
+Passing the userName:<b>sangeetha. Gopal@a-cti. com</b><br><br/>
+Passing the userName:<b>setmore</b><br><br/>
+Passing the userName:<b>sa ng e etha.gopal@a-cti.com</b><br><br/>
+Passing the userName:<b>setmore</b><br><br/>
+Passing the userName:<b>sangeetha.gopal@a-cti.io</b><br><br/>
+Passing the userName:<b>setmore</b><br><br/>
+Passing the userName:<b>sangeetha.gopal@a-cti.com</b><br><br/>
+Passing the userName:<b>سیٹمور </b><br><br/>
+Passing the userName:<b></b><br><br/>
+Passing the userName:<b>setmore</b><br><br/>
+Passing the userName:<b>sangeetha.gopal@a-cti.com</b><br><br/>
+Passing the userName:<b>setmore</b><br><br/>
+successfull logout <br><br/>
+</div>
+</td>
+<td></td>
+<td>96</td>
+<td>com.loginpagesetmore.ValidationLoginPage@22e2c121</td></tr>
+<tr>
+<td title='com.loginpagesetmore.ValidationLoginPage.verifyElement()'><b>verifyElement</b><br>Test class: com.loginpagesetmore.ValidationLoginPage<br/>
+<a href="#Output-203462681" onClick='toggleBox("Output-203462681", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-203462681" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-203462681">
+Going to verify the login button<br><br/>
+Verified login button <br><br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.loginpagesetmore.ValidationLoginPage@22e2c121</td></tr>
+</table><p>
+</body>
+</html>

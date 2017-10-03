@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching the Brower <br>]]>
+    </line>
+    <line>
+      <![CDATA[Maximise the browser as per system screen<br>]]>
+    </line>
+    <line>
+      <![CDATA[PageTitle : Free Online Appointment Scheduling Calendar Software | Setmore<br>]]>
+    </line>
+    <line>
+      <![CDATA[Going to verify the login button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verified login button <br>]]>
+    </line>
+    <line>
+      <![CDATA[Verified username textbox <br>]]>
+    </line>
+    <line>
+      <![CDATA[Verified password textbox <br>]]>
+    </line>
+    <line>
+      <![CDATA[verified signup button  <br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>sangeetha. Gopal@a-cti. com</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>sangeetha.gopal@a-cti.com</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>setmor</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>sangeetha.gopal@a-cti</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>SANGEETHA.GOPAL@A-CTI.COM</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[successfull logout <br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>sangeetha. Gopal@a-cti. com</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>sa ng e etha.gopal@a-cti.com</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>sangeetha.gopal@a-cti.io</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>sangeetha.gopal@a-cti.com</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>سیٹمور </b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>sangeetha.gopal@a-cti.com</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[successfull logout <br>]]>
+    </line>
+    <line>
+      <![CDATA[Verified loginwith goole <br>]]>
+    </line>
+    <line>
+      <![CDATA[Verified gmail username <br>]]>
+    </line>
+    <line>
+      <![CDATA[verified next button  <br>]]>
+    </line>
+    <line>
+      <![CDATA[verified the gmail password <br>]]>
+    </line>
+    <line>
+      <![CDATA[Verified the login with facebook button <br>]]>
+    </line>
+    <line>
+      <![CDATA[Verified facebook email fiel <br>]]>
+    </line>
+    <line>
+      <![CDATA[Verified facebook password field <br>]]>
+    </line>
+    <line>
+      <![CDATA[successful login through fb <br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="166212" started-at="2017-10-03T10:25:57Z" finished-at="2017-10-03T10:28:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="166212" started-at="2017-10-03T10:25:57Z" finished-at="2017-10-03T10:28:43Z">
+      <class name="com.loginpagesetmore.ValidationLoginPage">
+        <test-method status="PASS" signature="initObject()[pri:0, instance:com.loginpagesetmore.ValidationLoginPage@22e2c121]" name="initObject" is-config="true" duration-ms="5959" started-at="2017-10-03T15:55:57Z" finished-at="2017-10-03T15:56:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the Brower <br>]]>
+            </line>
+            <line>
+              <![CDATA[Maximise the browser as per system screen<br>]]>
+            </line>
+            <line>
+              <![CDATA[PageTitle : Free Online Appointment Scheduling Calendar Software | Setmore<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- initObject -->
+        <test-method status="PASS" signature="verifyElement()[pri:0, instance:com.loginpagesetmore.ValidationLoginPage@22e2c121]" name="verifyElement" duration-ms="3075" started-at="2017-10-03T15:56:03Z" finished-at="2017-10-03T15:56:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Going to verify the login button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verified login button <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyElement -->
+        <test-method status="PASS" signature="verifyAndValidLoginPage()[pri:1, instance:com.loginpagesetmore.ValidationLoginPage@22e2c121]" name="verifyAndValidLoginPage" duration-ms="96166" started-at="2017-10-03T15:56:06Z" finished-at="2017-10-03T15:57:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Verified username textbox <br>]]>
+            </line>
+            <line>
+              <![CDATA[Verified password textbox <br>]]>
+            </line>
+            <line>
+              <![CDATA[verified signup button  <br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>sangeetha. Gopal@a-cti. com</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>sangeetha.gopal@a-cti.com</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>setmor</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>sangeetha.gopal@a-cti</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>SANGEETHA.GOPAL@A-CTI.COM</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[successfull logout <br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>sangeetha. Gopal@a-cti. com</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>sa ng e etha.gopal@a-cti.com</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>sangeetha.gopal@a-cti.io</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>sangeetha.gopal@a-cti.com</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>سیٹمور </b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>sangeetha.gopal@a-cti.com</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Passing the userName:<b>setmore</b><br>]]>
+            </line>
+            <line>
+              <![CDATA[successfull logout <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAndValidLoginPage -->
+        <test-method status="PASS" signature="fbGoogleScenario()[pri:2, instance:com.loginpagesetmore.ValidationLoginPage@22e2c121]" name="fbGoogleScenario" duration-ms="60940" started-at="2017-10-03T15:57:42Z" finished-at="2017-10-03T15:58:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Verified loginwith goole <br>]]>
+            </line>
+            <line>
+              <![CDATA[Verified gmail username <br>]]>
+            </line>
+            <line>
+              <![CDATA[verified next button  <br>]]>
+            </line>
+            <line>
+              <![CDATA[verified the gmail password <br>]]>
+            </line>
+            <line>
+              <![CDATA[Verified the login with facebook button <br>]]>
+            </line>
+            <line>
+              <![CDATA[Verified facebook email fiel <br>]]>
+            </line>
+            <line>
+              <![CDATA[Verified facebook password field <br>]]>
+            </line>
+            <line>
+              <![CDATA[successful login through fb <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fbGoogleScenario -->
+      </class> <!-- com.loginpagesetmore.ValidationLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
